@@ -31,7 +31,7 @@ function divSelector() {
 function ninjaBabySelector() {
   return $('#baby-ninja');
 }
-// return the first 
+// return the first li in ul with the id pic-list
 function firstListItem() {
   return $('ul li:#pic-list');
 }
