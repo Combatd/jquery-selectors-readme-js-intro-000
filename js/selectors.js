@@ -17,6 +17,7 @@ function paragraphSelector() {
   return $('p');
 }
 
+// returns the last img in index.html
 function lastImageSelector() {
   return $('img:last');
 }
