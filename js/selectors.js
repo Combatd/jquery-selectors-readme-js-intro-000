@@ -31,3 +31,7 @@ function divSelector() {
 function ninjaBabySelector() {
   return $('#baby-ninja');
 }
+// return the first 
+function firstListItem() {
+  return $('ul li:#pic-list');
+}
