@@ -22,6 +22,7 @@ function lastImageSelector() {
   return $('img:last');
 }
 
+// returns all divs with class pics
 function divSelector() {
   return $('.pics');
 }
