@@ -27,6 +27,7 @@ function divSelector() {
   return $('.pics');
 }
 
+// returns img with the id baby-ninja
 function ninjaBabySelector() {
   return $('#baby-ninja');
 }
