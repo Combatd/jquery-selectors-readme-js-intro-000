@@ -12,6 +12,8 @@
 // $("img[alt='the beatles making faces']");
 // $('div:last');
 
+// returns all p elements
 function paragraphSelector() {
   return $('p');
 }
+
